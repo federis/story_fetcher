@@ -1,5 +1,5 @@
 require "story_fetcher/feed"
-require "feedzirra"
+require "feedjira"
 
 module StoryFetcher
   def self.fetch_all_feeds
